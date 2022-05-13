@@ -11,8 +11,8 @@
 # Usage
 - If you want to use my deployed contracts, you can just start running tests
 
-- `ITERATIONS=2 hh --network gnosis_optimism run scripts/metrics.ts`
-- `ITERATIONS=2 hh --network kovan_optimism run scripts/metrics.ts`
-- `ITERATIONS=2 hh --network xdai run scripts/metrics.ts`
+- `ITERATIONS=2 yarn hardhat --network gnosis_optimism run scripts/metrics.ts`
+- `ITERATIONS=2 yarn hardhat --network kovan_optimism run scripts/metrics.ts`
+- `ITERATIONS=2 yarn hardhat --network xdai run scripts/metrics.ts`
 
-(in progress) - `ITERATIONS=2 hh --network optimism_dev run scripts/metrics.ts`
+(in progress) - `ITERATIONS=2 yarn hardhat --network optimism_dev run scripts/metrics.ts`
