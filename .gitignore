@@ -1,1 +1,14 @@
 node_modules/
+
+#Hardhat files
+cache
+artifacts
+typechain
+types/
+
+subgraph/build/*
+subgraph/generated/*
+subgraph/subgraph.yaml
+subgraph/packages/*
+
+.env
